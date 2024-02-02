@@ -49,4 +49,5 @@ ggplot() +
   geom_sf(data = parks, fill = "chartreuse4", color = "transparent") +
   labs(title = "Philadelphia Park System, 2023") + 
   theme_void()
+####
 ```
